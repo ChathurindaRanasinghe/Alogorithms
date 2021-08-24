@@ -1,4 +1,3 @@
-         // Author : Chathurinda
 //Next lexicographical permutation algorithm
 
 #include <bits/stdc++.h>
